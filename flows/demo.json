@@ -29,7 +29,7 @@
             "data": {
                 "label": "What architectures you are familiar with?",
                 "prompt": "What architectures you are familiar with?",
-                "videoUrl": "http://localhost:8000/videos/demo_2.webm"
+                "videoUrl": "https://videoask-backend-2po9.onrender.com/videos/demo_2.webm"
             },
             "width": 150,
             "height": 54,
@@ -49,7 +49,7 @@
             "data": {
                 "label": "Thats ok. But there is always a learning path.",
                 "prompt": "Thats ok. But there is always a learning path.",
-                "videoUrl": "http://localhost:8000/videos/demo_3.webm"
+                "videoUrl": "https://videoask-backend-2po9.onrender.com/videos/demo_3.webm"
             },
             "width": 150,
             "height": 54,
@@ -69,7 +69,7 @@
             "data": {
                 "label": "Great, it's amazing to know.",
                 "prompt": "Great, it's amazing to know.",
-                "videoUrl": "http://localhost:8000/videos/demo_4.webm"
+                "videoUrl": "https://videoask-backend-2po9.onrender.com/videos/demo_4.webm"
             },
             "width": 150,
             "height": 54,
@@ -89,7 +89,7 @@
             "data": {
                 "label": "Supercool, great to know.",
                 "prompt": "Supercool, great to know.",
-                "videoUrl": "http://localhost:8000/videos/demo_5.webm"
+                "videoUrl": "https://videoask-backend-2po9.onrender.com/videos/demo_5.webm"
             },
             "width": 150,
             "height": 54,
@@ -109,7 +109,7 @@
             "data": {
                 "label": "Great. ",
                 "prompt": "Great. ",
-                "videoUrl": "http://localhost:8000/videos/demo_6.webm"
+                "videoUrl": "https://videoask-backend-2po9.onrender.com/videos/demo_6.webm"
             },
             "width": 150,
             "height": 38,
@@ -129,7 +129,7 @@
             "data": {
                 "label": "No issue. Not everyone likes to Architect.",
                 "prompt": "No issue. Not everyone likes to Architect.",
-                "videoUrl": "http://localhost:8000/videos/demo_7.webm"
+                "videoUrl": "https://videoask-backend-2po9.onrender.com/videos/demo_7.webm"
             },
             "width": 150,
             "height": 54,
