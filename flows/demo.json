@@ -1,1 +1,194 @@
-{"nodes":[{"id":"1","type":"default","position":{"x":123,"y":-83.5},"data":{"label":"Are you an Enterprise Architect? ","prompt":"Are you an Enterprise Architect? ","videoUrl":"http://localhost:8000/videos/demo_1.webm"},"width":150,"height":54,"selected":false,"positionAbsolute":{"x":123,"y":-83.5},"dragging":false},{"id":"2","type":"default","position":{"x":25,"y":33.5},"data":{"label":"What architectures you are familiar with?","prompt":"What architectures you are familiar with?","videoUrl":"http://localhost:8000/videos/demo_2.webm"},"width":150,"height":54,"selected":false,"positionAbsolute":{"x":25,"y":33.5},"dragging":false},{"id":"3","type":"default","position":{"x":254.6955357142857,"y":22.994196428571428},"data":{"label":"Thats ok. But there is always a learning path.","prompt":"Thats ok. But there is always a learning path.","videoUrl":"http://localhost:8000/videos/demo_3.webm"},"width":150,"height":54,"selected":false,"positionAbsolute":{"x":254.6955357142857,"y":22.994196428571428},"dragging":false},{"id":"4","type":"default","position":{"x":-54.1609375,"y":191.69553571428574},"data":{"label":"Great, it's amazing to know.","prompt":"Great, it's amazing to know.","videoUrl":"http://localhost:8000/videos/demo_4.webm"},"width":150,"height":54,"selected":true,"positionAbsolute":{"x":-54.1609375,"y":191.69553571428574},"dragging":false},{"id":"5","type":"default","position":{"x":139.29888392857143,"y":193.19553571428574},"data":{"label":"Supercool, great to know.","prompt":"Supercool, great to know.","videoUrl":"http://localhost:8000/videos/demo_5.webm"},"width":150,"height":54,"selected":false,"positionAbsolute":{"x":139.29888392857143,"y":193.19553571428574},"dragging":false},{"id":"6","type":"default","position":{"x":468.6102678571429,"y":119.14642857142846},"data":{"label":"Great. ","prompt":"Great. ","videoUrl":"http://localhost:8000/videos/demo_6.webm"},"width":150,"height":38,"selected":false,"positionAbsolute":{"x":468.6102678571429,"y":119.14642857142846},"dragging":false},{"id":"7","type":"default","position":{"x":230.12633928571427,"y":118.39866071428554},"data":{"label":"No issue. Not everyone likes to Architect.","prompt":"No issue. Not everyone likes to Architect.","videoUrl":"http://localhost:8000/videos/demo_7.webm"},"width":150,"height":54,"selected":false,"positionAbsolute":{"x":230.12633928571427,"y":118.39866071428554},"dragging":false}],"edges":[{"source":"1","sourceHandle":null,"target":"2","targetHandle":null,"label":"Yes","id":"reactflow__edge-1-2","selected":false},{"source":"1","sourceHandle":null,"target":"3","targetHandle":null,"label":"No","id":"reactflow__edge-1-3","selected":false},{"source":"2","sourceHandle":null,"target":"4","targetHandle":null,"label":"Microservices","id":"reactflow__edge-2-4","selected":false},{"source":"2","sourceHandle":null,"target":"5","targetHandle":null,"label":"Serverless","id":"reactflow__edge-2-5","selected":false},{"source":"3","sourceHandle":null,"target":"6","targetHandle":null,"label":"Comfortable","id":"reactflow__edge-3-6","selected":false},{"source":"3","sourceHandle":null,"target":"7","targetHandle":null,"label":"Uncomfortable","id":"reactflow__edge-3-7","selected":false}]}
+{
+    "nodes": [{
+            "id": "1",
+            "type": "default",
+            "position": {
+                "x": 123,
+                "y": -83.5
+            },
+            "data": {
+                "label": "Are you an Enterprise Architect? ",
+                "prompt": "Are you an Enterprise Architect? ",
+                "videoUrl": "https://videoask-backend-2po9.onrender.com/videos/demo_1.webm"
+            },
+            "width": 150,
+            "height": 54,
+            "selected": false,
+            "positionAbsolute": {
+                "x": 123,
+                "y": -83.5
+            },
+            "dragging": false
+        }, {
+            "id": "2",
+            "type": "default",
+            "position": {
+                "x": 25,
+                "y": 33.5
+            },
+            "data": {
+                "label": "What architectures you are familiar with?",
+                "prompt": "What architectures you are familiar with?",
+                "videoUrl": "http://localhost:8000/videos/demo_2.webm"
+            },
+            "width": 150,
+            "height": 54,
+            "selected": false,
+            "positionAbsolute": {
+                "x": 25,
+                "y": 33.5
+            },
+            "dragging": false
+        }, {
+            "id": "3",
+            "type": "default",
+            "position": {
+                "x": 254.6955357142857,
+                "y": 22.994196428571428
+            },
+            "data": {
+                "label": "Thats ok. But there is always a learning path.",
+                "prompt": "Thats ok. But there is always a learning path.",
+                "videoUrl": "http://localhost:8000/videos/demo_3.webm"
+            },
+            "width": 150,
+            "height": 54,
+            "selected": false,
+            "positionAbsolute": {
+                "x": 254.6955357142857,
+                "y": 22.994196428571428
+            },
+            "dragging": false
+        }, {
+            "id": "4",
+            "type": "default",
+            "position": {
+                "x": -54.1609375,
+                "y": 191.69553571428574
+            },
+            "data": {
+                "label": "Great, it's amazing to know.",
+                "prompt": "Great, it's amazing to know.",
+                "videoUrl": "http://localhost:8000/videos/demo_4.webm"
+            },
+            "width": 150,
+            "height": 54,
+            "selected": true,
+            "positionAbsolute": {
+                "x": -54.1609375,
+                "y": 191.69553571428574
+            },
+            "dragging": false
+        }, {
+            "id": "5",
+            "type": "default",
+            "position": {
+                "x": 139.29888392857143,
+                "y": 193.19553571428574
+            },
+            "data": {
+                "label": "Supercool, great to know.",
+                "prompt": "Supercool, great to know.",
+                "videoUrl": "http://localhost:8000/videos/demo_5.webm"
+            },
+            "width": 150,
+            "height": 54,
+            "selected": false,
+            "positionAbsolute": {
+                "x": 139.29888392857143,
+                "y": 193.19553571428574
+            },
+            "dragging": false
+        }, {
+            "id": "6",
+            "type": "default",
+            "position": {
+                "x": 468.6102678571429,
+                "y": 119.14642857142846
+            },
+            "data": {
+                "label": "Great. ",
+                "prompt": "Great. ",
+                "videoUrl": "http://localhost:8000/videos/demo_6.webm"
+            },
+            "width": 150,
+            "height": 38,
+            "selected": false,
+            "positionAbsolute": {
+                "x": 468.6102678571429,
+                "y": 119.14642857142846
+            },
+            "dragging": false
+        }, {
+            "id": "7",
+            "type": "default",
+            "position": {
+                "x": 230.12633928571427,
+                "y": 118.39866071428554
+            },
+            "data": {
+                "label": "No issue. Not everyone likes to Architect.",
+                "prompt": "No issue. Not everyone likes to Architect.",
+                "videoUrl": "http://localhost:8000/videos/demo_7.webm"
+            },
+            "width": 150,
+            "height": 54,
+            "selected": false,
+            "positionAbsolute": {
+                "x": 230.12633928571427,
+                "y": 118.39866071428554
+            },
+            "dragging": false
+        }
+    ],
+    "edges": [{
+            "source": "1",
+            "sourceHandle": null,
+            "target": "2",
+            "targetHandle": null,
+            "label": "Yes",
+            "id": "reactflow__edge-1-2",
+            "selected": false
+        }, {
+            "source": "1",
+            "sourceHandle": null,
+            "target": "3",
+            "targetHandle": null,
+            "label": "No",
+            "id": "reactflow__edge-1-3",
+            "selected": false
+        }, {
+            "source": "2",
+            "sourceHandle": null,
+            "target": "4",
+            "targetHandle": null,
+            "label": "Microservices",
+            "id": "reactflow__edge-2-4",
+            "selected": false
+        }, {
+            "source": "2",
+            "sourceHandle": null,
+            "target": "5",
+            "targetHandle": null,
+            "label": "Serverless",
+            "id": "reactflow__edge-2-5",
+            "selected": false
+        }, {
+            "source": "3",
+            "sourceHandle": null,
+            "target": "6",
+            "targetHandle": null,
+            "label": "Comfortable",
+            "id": "reactflow__edge-3-6",
+            "selected": false
+        }, {
+            "source": "3",
+            "sourceHandle": null,
+            "target": "7",
+            "targetHandle": null,
+            "label": "Uncomfortable",
+            "id": "reactflow__edge-3-7",
+            "selected": false
+        }
+    ]
+}
